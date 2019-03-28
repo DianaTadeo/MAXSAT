@@ -7,8 +7,11 @@ Desde terminal entramos a la carpeta src y escribimos:
  > python MAXSAT.py
 
 Como resultado, se imprimiran en la terminal
+
 1.- Los pasos de lo que genera
+
 2.- La evaluacion por generacion
+
 3.- La mejor solucion con variable/valor
 
 Se generará también un archivo llamado "ejemplar.txt" deonde se mostrará
